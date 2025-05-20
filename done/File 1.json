@@ -1,0 +1,3197 @@
+{
+  "source": "https://taliastorage.blob.core.windows.net/audiotranscribe/Audio de Rodrigo.oga?se=2025-05-16T14%3A29%3A01Z&sp=r&sv=2025-05-05&sr=b&sig=ZBktQmxTd2nJB%2Bb/rfTj04i7UPE49CrV0ai9RH%2Blwtg%3D",
+  "timestamp": "2025-05-16T13:29:19Z",
+  "durationInTicks": 625000000,
+  "durationMilliseconds": 62500,
+  "duration": "PT1M2.5S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "professor dixon bom dia meu amigo é eu estou com um um probleminha dixon e eu não sei como resolver jabuta e gelo tomei remédio entendeu e é uma dor que eu sinto nessa região que eu marquei com a caneta aí ó e a dor mais forte assim onde o ponto que dói mais é onde está circulado você sabe dizer dixon o que é que eu preciso fazer pra melhorar essa dor no pé porque eu não tô nem conseguindo treinar direito sabe aí ontem eu fiz até um treino leve muito leve mesmo de boa deu certo mas depois que você para e descansa ali um pouco aí meio que quando o sangue esfria a dor volta e aí eu não sei o que que eu faço já o tem gelo dentro do balde deixei meu pé no no gelo já tomei uns remédios pra pra dor pra dor no corpo né para essas lesões assim e até agora não passou",
+      "itn": "professor dixon bom dia meu amigo é eu estou com 11 probleminha dixon e eu não sei como resolver jabuta e gelo tomei remédio entendeu e é uma dor que eu sinto nessa região que eu marquei com a caneta aí ó e a dor mais forte assim onde o ponto que dói mais é onde está circulado você sabe dizer dixon o que é que eu preciso fazer pra melhorar essa dor no pé porque eu não tô nem conseguindo treinar direito sabe aí ontem eu fiz até um treino leve muito leve mesmo de boa deu certo mas depois que você para e descansa ali um pouco aí meio que quando o sangue esfria a dor volta e aí eu não sei o que que eu faço já o tem gelo dentro do balde deixei meu pé no no gelo já tomei uns remédios pra pra dor pra dor no corpo né para essas lesões assim e até agora não passou",
+      "maskedITN": "professor dixon bom dia meu amigo é eu estou com 11 probleminha dixon e eu não sei como resolver jabuta e gelo tomei remédio entendeu e é uma dor que eu sinto nessa região que eu marquei com a caneta aí ó e a dor mais forte assim onde o ponto que dói mais é onde está circulado você sabe dizer dixon o que é que eu preciso fazer pra melhorar essa dor no pé porque eu não tô nem conseguindo treinar direito sabe aí ontem eu fiz até um treino leve muito leve mesmo de boa deu certo mas depois que você para e descansa ali um pouco aí meio que quando o sangue esfria a dor volta e aí eu não sei o que que eu faço já o tem gelo dentro do balde deixei meu pé no no gelo já tomei uns remédios pra pra dor pra dor no corpo né para essas lesões assim e até agora não passou",
+      "display": "Professor Dixon, bom dia, meu amigo. É, eu estou com 11, probleminha Dixon, e eu não sei como resolver. Jabuta e gelo, tomei remédio, entendeu? E é uma dor que eu sinto nessa região que eu marquei com a caneta. Aí, ó, e a dor mais forte assim, onde? O ponto que dói mais é onde está circulado, você sabe dizer, Dixon, o que é que eu preciso fazer? Pra melhorar essa dor no pé, porque eu não tô nem conseguindo treinar direito, sabe? Aí ontem eu fiz até um treino leve, muito leve mesmo, de boa, deu certo, mas depois que você para e descansa ali um pouco, aí meio que quando o sangue esfria, a dor volta e aí eu não sei o que que eu faço. Já o tem gelo dentro do balde, deixei meu pé No No gelo, já tomei uns remédios pra pra dor, pra dor no corpo, né? Para essas lesões assim e até agora não passou."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.52S",
+      "duration": "PT26.96S",
+      "offsetInTicks": 5200000.0,
+      "durationInTicks": 269600000.0,
+      "durationMilliseconds": 26960,
+      "offsetMilliseconds": 520,
+      "nBest": [
+        {
+          "confidence": 0.8436482,
+          "lexical": "professor dixon bom dia meu amigo é eu estou com um um probleminha dixon e eu não sei como resolver jabuta e gelo tomei remédio entendeu e é uma dor que eu sinto nessa região que eu marquei com a caneta aí ó e a dor mais forte assim onde o ponto que dói mais é onde está circulado você sabe dizer dixon o que é que eu preciso fazer",
+          "itn": "professor dixon bom dia meu amigo é eu estou com 11 probleminha dixon e eu não sei como resolver jabuta e gelo tomei remédio entendeu e é uma dor que eu sinto nessa região que eu marquei com a caneta aí ó e a dor mais forte assim onde o ponto que dói mais é onde está circulado você sabe dizer dixon o que é que eu preciso fazer",
+          "maskedITN": "professor dixon bom dia meu amigo é eu estou com 11 probleminha dixon e eu não sei como resolver jabuta e gelo tomei remédio entendeu e é uma dor que eu sinto nessa região que eu marquei com a caneta aí ó e a dor mais forte assim onde o ponto que dói mais é onde está circulado você sabe dizer dixon o que é que eu preciso fazer",
+          "display": "Professor Dixon, bom dia, meu amigo. É, eu estou com 11, probleminha Dixon, e eu não sei como resolver. Jabuta e gelo, tomei remédio, entendeu? E é uma dor que eu sinto nessa região que eu marquei com a caneta. Aí, ó, e a dor mais forte assim, onde? O ponto que dói mais é onde está circulado, você sabe dizer, Dixon, o que é que eu preciso fazer?",
+          "words": [
+            {
+              "word": "professor",
+              "offset": "PT0.52S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 5200000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 520,
+              "confidence": 0.97044855
+            },
+            {
+              "word": "dixon",
+              "offset": "PT1.04S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 10400000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 1040,
+              "confidence": 0.115588546
+            },
+            {
+              "word": "bom",
+              "offset": "PT1.44S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 14400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 1440,
+              "confidence": 0.9874013
+            },
+            {
+              "word": "dia",
+              "offset": "PT1.68S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 16800000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 1680,
+              "confidence": 0.9877751
+            },
+            {
+              "word": "meu",
+              "offset": "PT2.48S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 24800000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 2480,
+              "confidence": 0.9875693
+            },
+            {
+              "word": "amigo",
+              "offset": "PT2.68S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 26800000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 2680,
+              "confidence": 0.9861583
+            },
+            {
+              "word": "é",
+              "offset": "PT3.8S",
+              "duration": "PT0.8S",
+              "offsetInTicks": 38000000.0,
+              "durationInTicks": 8000000.0,
+              "durationMilliseconds": 800,
+              "offsetMilliseconds": 3800,
+              "confidence": 0.47592506
+            },
+            {
+              "word": "eu",
+              "offset": "PT4.6S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 46000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 4600,
+              "confidence": 0.98139155
+            },
+            {
+              "word": "estou",
+              "offset": "PT4.72S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 47200000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 4720,
+              "confidence": 0.15329759
+            },
+            {
+              "word": "com",
+              "offset": "PT4.96S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 49600000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 4960,
+              "confidence": 0.98921657
+            },
+            {
+              "word": "um",
+              "offset": "PT5.32S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 53200000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 5320,
+              "confidence": 0.96550727
+            },
+            {
+              "word": "um",
+              "offset": "PT5.64S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 56400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 5640,
+              "confidence": 0.5255593
+            },
+            {
+              "word": "probleminha",
+              "offset": "PT5.84S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 58400000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 5840,
+              "confidence": 0.8922727
+            },
+            {
+              "word": "dixon",
+              "offset": "PT6.52S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 65200000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 6520,
+              "confidence": 0.10656545
+            },
+            {
+              "word": "e",
+              "offset": "PT6.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 69200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 6920,
+              "confidence": 0.9306257
+            },
+            {
+              "word": "eu",
+              "offset": "PT7.08S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 70800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 7080,
+              "confidence": 0.9887916
+            },
+            {
+              "word": "não",
+              "offset": "PT7.2S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 72000000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 7200,
+              "confidence": 0.9918847
+            },
+            {
+              "word": "sei",
+              "offset": "PT7.52S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 75200000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 7520,
+              "confidence": 0.9884824
+            },
+            {
+              "word": "como",
+              "offset": "PT7.76S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 77600000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 7760,
+              "confidence": 0.98641205
+            },
+            {
+              "word": "resolver",
+              "offset": "PT8S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 80000000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 8000,
+              "confidence": 0.9419138
+            },
+            {
+              "word": "jabuta",
+              "offset": "PT8.36S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 83600000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 8360,
+              "confidence": 0.40865487
+            },
+            {
+              "word": "e",
+              "offset": "PT8.72S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 87200000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 8720,
+              "confidence": 0.44580364
+            },
+            {
+              "word": "gelo",
+              "offset": "PT8.76S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 87600000.0,
+              "durationInTicks": 6400000.0,
+              "durationMilliseconds": 640,
+              "offsetMilliseconds": 8760,
+              "confidence": 0.95156145
+            },
+            {
+              "word": "tomei",
+              "offset": "PT9.4S",
+              "duration": "PT0.76S",
+              "offsetInTicks": 94000000.0,
+              "durationInTicks": 7600000.0,
+              "durationMilliseconds": 760,
+              "offsetMilliseconds": 9400,
+              "confidence": 0.4445352
+            },
+            {
+              "word": "remédio",
+              "offset": "PT10.16S",
+              "duration": "PT1.04S",
+              "offsetInTicks": 101600000.0,
+              "durationInTicks": 10400000.0,
+              "durationMilliseconds": 1040,
+              "offsetMilliseconds": 10160,
+              "confidence": 0.96458435
+            },
+            {
+              "word": "entendeu",
+              "offset": "PT11.88S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 118800000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 11880,
+              "confidence": 0.987235
+            },
+            {
+              "word": "e",
+              "offset": "PT12.72S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 127200000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 12720,
+              "confidence": 0.9893992
+            },
+            {
+              "word": "é",
+              "offset": "PT13.2S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 132000000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 13200,
+              "confidence": 0.98335224
+            },
+            {
+              "word": "uma",
+              "offset": "PT13.24S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 132400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 13240,
+              "confidence": 0.9871427
+            },
+            {
+              "word": "dor",
+              "offset": "PT13.48S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 134800000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 13480,
+              "confidence": 0.989527
+            },
+            {
+              "word": "que",
+              "offset": "PT13.68S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 136800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 13680,
+              "confidence": 0.9490786
+            },
+            {
+              "word": "eu",
+              "offset": "PT13.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 138400000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 13840,
+              "confidence": 0.98433876
+            },
+            {
+              "word": "sinto",
+              "offset": "PT13.96S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 139600000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 13960,
+              "confidence": 0.9889592
+            },
+            {
+              "word": "nessa",
+              "offset": "PT14.88S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 148800000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 14880,
+              "confidence": 0.98755336
+            },
+            {
+              "word": "região",
+              "offset": "PT15.48S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 154800000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 15480,
+              "confidence": 0.9886063
+            },
+            {
+              "word": "que",
+              "offset": "PT15.92S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 159200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 15920,
+              "confidence": 0.9884643
+            },
+            {
+              "word": "eu",
+              "offset": "PT16S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 160000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 16000,
+              "confidence": 0.98552656
+            },
+            {
+              "word": "marquei",
+              "offset": "PT16.08S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 160800000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 16080,
+              "confidence": 0.97326344
+            },
+            {
+              "word": "com",
+              "offset": "PT16.48S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 164800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 16480,
+              "confidence": 0.98482
+            },
+            {
+              "word": "a",
+              "offset": "PT16.64S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 166400000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 16640,
+              "confidence": 0.6688037
+            },
+            {
+              "word": "caneta",
+              "offset": "PT16.68S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 166800000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 16680,
+              "confidence": 0.9752882
+            },
+            {
+              "word": "aí",
+              "offset": "PT17.16S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 171600000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 17160,
+              "confidence": 0.82464814
+            },
+            {
+              "word": "ó",
+              "offset": "PT17.36S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 173600000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 17360,
+              "confidence": 0.751294
+            },
+            {
+              "word": "e",
+              "offset": "PT17.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 179200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 17920,
+              "confidence": 0.569583
+            },
+            {
+              "word": "a",
+              "offset": "PT18.08S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 180800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 18080,
+              "confidence": 0.8804887
+            },
+            {
+              "word": "dor",
+              "offset": "PT18.24S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 182400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 18240,
+              "confidence": 0.9641895
+            },
+            {
+              "word": "mais",
+              "offset": "PT18.48S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 184800000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 18480,
+              "confidence": 0.9861696
+            },
+            {
+              "word": "forte",
+              "offset": "PT18.8S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 188000000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 18800,
+              "confidence": 0.986858
+            },
+            {
+              "word": "assim",
+              "offset": "PT19.36S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 193600000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 19360,
+              "confidence": 0.67226255
+            },
+            {
+              "word": "onde",
+              "offset": "PT19.56S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 195600000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 19560,
+              "confidence": 0.81921864
+            },
+            {
+              "word": "o",
+              "offset": "PT19.92S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 199200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 19920,
+              "confidence": 0.5310363
+            },
+            {
+              "word": "ponto",
+              "offset": "PT20S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 200000000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 20000,
+              "confidence": 0.9820664
+            },
+            {
+              "word": "que",
+              "offset": "PT20.28S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 202800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 20280,
+              "confidence": 0.9830573
+            },
+            {
+              "word": "dói",
+              "offset": "PT20.4S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 204000000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 20400,
+              "confidence": 0.9500202
+            },
+            {
+              "word": "mais",
+              "offset": "PT20.6S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 206000000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 20600,
+              "confidence": 0.9853978
+            },
+            {
+              "word": "é",
+              "offset": "PT20.96S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 209600000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 20960,
+              "confidence": 0.25179332
+            },
+            {
+              "word": "onde",
+              "offset": "PT21S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 210000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 21000,
+              "confidence": 0.69798243
+            },
+            {
+              "word": "está",
+              "offset": "PT21.12S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 211200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 21120,
+              "confidence": 0.5619675
+            },
+            {
+              "word": "circulado",
+              "offset": "PT21.28S",
+              "duration": "PT0.84S",
+              "offsetInTicks": 212800000.0,
+              "durationInTicks": 8400000.0,
+              "durationMilliseconds": 840,
+              "offsetMilliseconds": 21280,
+              "confidence": 0.9613805
+            },
+            {
+              "word": "você",
+              "offset": "PT23.04S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 230400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 23040,
+              "confidence": 0.9824729
+            },
+            {
+              "word": "sabe",
+              "offset": "PT23.28S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 232800000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 23280,
+              "confidence": 0.9889627
+            },
+            {
+              "word": "dizer",
+              "offset": "PT23.56S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 235600000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 23560,
+              "confidence": 0.970057
+            },
+            {
+              "word": "dixon",
+              "offset": "PT24.04S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 240400000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 24040,
+              "confidence": 0.31358558
+            },
+            {
+              "word": "o",
+              "offset": "PT24.52S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 245200000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 24520,
+              "confidence": 0.9679082
+            },
+            {
+              "word": "que",
+              "offset": "PT24.8S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 248000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 24800,
+              "confidence": 0.9824668
+            },
+            {
+              "word": "é",
+              "offset": "PT24.92S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 249200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 24920,
+              "confidence": 0.9848888
+            },
+            {
+              "word": "que",
+              "offset": "PT25S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 250000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 25000,
+              "confidence": 0.9810543
+            },
+            {
+              "word": "eu",
+              "offset": "PT25.12S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 251200000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 25120,
+              "confidence": 0.98991066
+            },
+            {
+              "word": "preciso",
+              "offset": "PT25.24S",
+              "duration": "PT1.04S",
+              "offsetInTicks": 252400000.0,
+              "durationInTicks": 10400000.0,
+              "durationMilliseconds": 1040,
+              "offsetMilliseconds": 25240,
+              "confidence": 0.9667213
+            },
+            {
+              "word": "fazer",
+              "offset": "PT26.64S",
+              "duration": "PT0.84S",
+              "offsetInTicks": 266400000.0,
+              "durationInTicks": 8400000.0,
+              "durationMilliseconds": 840,
+              "offsetMilliseconds": 26640,
+              "confidence": 0.9886402
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Professor",
+              "offset": "PT0.52S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 5200000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 520
+            },
+            {
+              "displayText": "Dixon,",
+              "offset": "PT1.04S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 10400000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 1040
+            },
+            {
+              "displayText": "bom",
+              "offset": "PT1.44S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 14400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 1440
+            },
+            {
+              "displayText": "dia,",
+              "offset": "PT1.68S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 16800000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 1680
+            },
+            {
+              "displayText": "meu",
+              "offset": "PT2.48S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 24800000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 2480
+            },
+            {
+              "displayText": "amigo.",
+              "offset": "PT2.68S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 26800000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 2680
+            },
+            {
+              "displayText": "É,",
+              "offset": "PT3.8S",
+              "duration": "PT0.8S",
+              "offsetInTicks": 38000000.0,
+              "durationInTicks": 8000000.0,
+              "durationMilliseconds": 800,
+              "offsetMilliseconds": 3800
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT4.6S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 46000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 4600
+            },
+            {
+              "displayText": "estou",
+              "offset": "PT4.72S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 47200000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 4720
+            },
+            {
+              "displayText": "com",
+              "offset": "PT4.96S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 49600000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 4960
+            },
+            {
+              "displayText": "11,",
+              "offset": "PT5.32S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 53200000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 5320
+            },
+            {
+              "displayText": "probleminha",
+              "offset": "PT5.84S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 58400000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 5840
+            },
+            {
+              "displayText": "Dixon,",
+              "offset": "PT6.52S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 65200000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 6520
+            },
+            {
+              "displayText": "e",
+              "offset": "PT6.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 69200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 6920
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT7.08S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 70800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 7080
+            },
+            {
+              "displayText": "não",
+              "offset": "PT7.2S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 72000000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 7200
+            },
+            {
+              "displayText": "sei",
+              "offset": "PT7.52S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 75200000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 7520
+            },
+            {
+              "displayText": "como",
+              "offset": "PT7.76S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 77600000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 7760
+            },
+            {
+              "displayText": "resolver.",
+              "offset": "PT8S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 80000000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 8000
+            },
+            {
+              "displayText": "Jabuta",
+              "offset": "PT8.36S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 83600000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 8360
+            },
+            {
+              "displayText": "e",
+              "offset": "PT8.72S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 87200000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 8720
+            },
+            {
+              "displayText": "gelo,",
+              "offset": "PT8.76S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 87600000.0,
+              "durationInTicks": 6400000.0,
+              "durationMilliseconds": 640,
+              "offsetMilliseconds": 8760
+            },
+            {
+              "displayText": "tomei",
+              "offset": "PT9.4S",
+              "duration": "PT0.76S",
+              "offsetInTicks": 94000000.0,
+              "durationInTicks": 7600000.0,
+              "durationMilliseconds": 760,
+              "offsetMilliseconds": 9400
+            },
+            {
+              "displayText": "remédio,",
+              "offset": "PT10.16S",
+              "duration": "PT1.04S",
+              "offsetInTicks": 101600000.0,
+              "durationInTicks": 10400000.0,
+              "durationMilliseconds": 1040,
+              "offsetMilliseconds": 10160
+            },
+            {
+              "displayText": "entendeu?",
+              "offset": "PT11.88S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 118800000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 11880
+            },
+            {
+              "displayText": "E",
+              "offset": "PT12.72S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 127200000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 12720
+            },
+            {
+              "displayText": "é",
+              "offset": "PT13.2S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 132000000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 13200
+            },
+            {
+              "displayText": "uma",
+              "offset": "PT13.24S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 132400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 13240
+            },
+            {
+              "displayText": "dor",
+              "offset": "PT13.48S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 134800000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 13480
+            },
+            {
+              "displayText": "que",
+              "offset": "PT13.68S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 136800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 13680
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT13.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 138400000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 13840
+            },
+            {
+              "displayText": "sinto",
+              "offset": "PT13.96S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 139600000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 13960
+            },
+            {
+              "displayText": "nessa",
+              "offset": "PT14.88S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 148800000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 14880
+            },
+            {
+              "displayText": "região",
+              "offset": "PT15.48S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 154800000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 15480
+            },
+            {
+              "displayText": "que",
+              "offset": "PT15.92S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 159200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 15920
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT16S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 160000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 16000
+            },
+            {
+              "displayText": "marquei",
+              "offset": "PT16.08S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 160800000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 16080
+            },
+            {
+              "displayText": "com",
+              "offset": "PT16.48S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 164800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 16480
+            },
+            {
+              "displayText": "a",
+              "offset": "PT16.64S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 166400000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 16640
+            },
+            {
+              "displayText": "caneta.",
+              "offset": "PT16.68S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 166800000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 16680
+            },
+            {
+              "displayText": "Aí,",
+              "offset": "PT17.16S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 171600000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 17160
+            },
+            {
+              "displayText": "ó,",
+              "offset": "PT17.36S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 173600000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 17360
+            },
+            {
+              "displayText": "e",
+              "offset": "PT17.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 179200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 17920
+            },
+            {
+              "displayText": "a",
+              "offset": "PT18.08S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 180800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 18080
+            },
+            {
+              "displayText": "dor",
+              "offset": "PT18.24S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 182400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 18240
+            },
+            {
+              "displayText": "mais",
+              "offset": "PT18.48S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 184800000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 18480
+            },
+            {
+              "displayText": "forte",
+              "offset": "PT18.8S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 188000000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 18800
+            },
+            {
+              "displayText": "assim,",
+              "offset": "PT19.36S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 193600000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 19360
+            },
+            {
+              "displayText": "onde?",
+              "offset": "PT19.56S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 195600000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 19560
+            },
+            {
+              "displayText": "O",
+              "offset": "PT19.92S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 199200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 19920
+            },
+            {
+              "displayText": "ponto",
+              "offset": "PT20S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 200000000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 20000
+            },
+            {
+              "displayText": "que",
+              "offset": "PT20.28S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 202800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 20280
+            },
+            {
+              "displayText": "dói",
+              "offset": "PT20.4S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 204000000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 20400
+            },
+            {
+              "displayText": "mais",
+              "offset": "PT20.6S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 206000000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 20600
+            },
+            {
+              "displayText": "é",
+              "offset": "PT20.96S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 209600000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 20960
+            },
+            {
+              "displayText": "onde",
+              "offset": "PT21S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 210000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 21000
+            },
+            {
+              "displayText": "está",
+              "offset": "PT21.12S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 211200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 21120
+            },
+            {
+              "displayText": "circulado,",
+              "offset": "PT21.28S",
+              "duration": "PT0.84S",
+              "offsetInTicks": 212800000.0,
+              "durationInTicks": 8400000.0,
+              "durationMilliseconds": 840,
+              "offsetMilliseconds": 21280
+            },
+            {
+              "displayText": "você",
+              "offset": "PT23.04S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 230400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 23040
+            },
+            {
+              "displayText": "sabe",
+              "offset": "PT23.28S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 232800000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 23280
+            },
+            {
+              "displayText": "dizer,",
+              "offset": "PT23.56S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 235600000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 23560
+            },
+            {
+              "displayText": "Dixon,",
+              "offset": "PT24.04S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 240400000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 24040
+            },
+            {
+              "displayText": "o",
+              "offset": "PT24.52S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 245200000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 24520
+            },
+            {
+              "displayText": "que",
+              "offset": "PT24.8S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 248000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 24800
+            },
+            {
+              "displayText": "é",
+              "offset": "PT24.92S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 249200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 24920
+            },
+            {
+              "displayText": "que",
+              "offset": "PT25S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 250000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 25000
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT25.12S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 251200000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 25120
+            },
+            {
+              "displayText": "preciso",
+              "offset": "PT25.24S",
+              "duration": "PT1.04S",
+              "offsetInTicks": 252400000.0,
+              "durationInTicks": 10400000.0,
+              "durationMilliseconds": 1040,
+              "offsetMilliseconds": 25240
+            },
+            {
+              "displayText": "fazer?",
+              "offset": "PT26.64S",
+              "duration": "PT0.84S",
+              "offsetInTicks": 266400000.0,
+              "durationInTicks": 8400000.0,
+              "durationMilliseconds": 840,
+              "offsetMilliseconds": 26640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28.12S",
+      "duration": "PT29.08S",
+      "offsetInTicks": 281200000.0,
+      "durationInTicks": 290800000.0,
+      "durationMilliseconds": 29080,
+      "offsetMilliseconds": 28120,
+      "nBest": [
+        {
+          "confidence": 0.7936542,
+          "lexical": "pra melhorar essa dor no pé porque eu não tô nem conseguindo treinar direito sabe aí ontem eu fiz até um treino leve muito leve mesmo de boa deu certo mas depois que você para e descansa ali um pouco aí meio que quando o sangue esfria a dor volta e aí eu não sei o que que eu faço já o tem gelo dentro do balde deixei meu pé no no gelo já tomei uns remédios pra pra dor pra dor no corpo né",
+          "itn": "pra melhorar essa dor no pé porque eu não tô nem conseguindo treinar direito sabe aí ontem eu fiz até um treino leve muito leve mesmo de boa deu certo mas depois que você para e descansa ali um pouco aí meio que quando o sangue esfria a dor volta e aí eu não sei o que que eu faço já o tem gelo dentro do balde deixei meu pé no no gelo já tomei uns remédios pra pra dor pra dor no corpo né",
+          "maskedITN": "pra melhorar essa dor no pé porque eu não tô nem conseguindo treinar direito sabe aí ontem eu fiz até um treino leve muito leve mesmo de boa deu certo mas depois que você para e descansa ali um pouco aí meio que quando o sangue esfria a dor volta e aí eu não sei o que que eu faço já o tem gelo dentro do balde deixei meu pé no no gelo já tomei uns remédios pra pra dor pra dor no corpo né",
+          "display": "Pra melhorar essa dor no pé, porque eu não tô nem conseguindo treinar direito, sabe? Aí ontem eu fiz até um treino leve, muito leve mesmo, de boa, deu certo, mas depois que você para e descansa ali um pouco, aí meio que quando o sangue esfria, a dor volta e aí eu não sei o que que eu faço. Já o tem gelo dentro do balde, deixei meu pé No No gelo, já tomei uns remédios pra pra dor, pra dor no corpo, né?",
+          "words": [
+            {
+              "word": "pra",
+              "offset": "PT28.12S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 281200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 28120,
+              "confidence": 0.15943699
+            },
+            {
+              "word": "melhorar",
+              "offset": "PT28.28S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 282800000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 28280,
+              "confidence": 0.63445586
+            },
+            {
+              "word": "essa",
+              "offset": "PT28.76S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 287600000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 28760,
+              "confidence": 0.9864173
+            },
+            {
+              "word": "dor",
+              "offset": "PT28.96S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 289600000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 28960,
+              "confidence": 0.9850846
+            },
+            {
+              "word": "no",
+              "offset": "PT29.12S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 291200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 29120,
+              "confidence": 0.98744595
+            },
+            {
+              "word": "pé",
+              "offset": "PT29.28S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 292800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 29280,
+              "confidence": 0.9858825
+            },
+            {
+              "word": "porque",
+              "offset": "PT29.4S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 294000000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 29400,
+              "confidence": 0.8018048
+            },
+            {
+              "word": "eu",
+              "offset": "PT29.6S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 296000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 29600,
+              "confidence": 0.7192812
+            },
+            {
+              "word": "não",
+              "offset": "PT29.68S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 296800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 29680,
+              "confidence": 0.98072666
+            },
+            {
+              "word": "tô",
+              "offset": "PT29.8S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 298000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 29800,
+              "confidence": 0.48364684
+            },
+            {
+              "word": "nem",
+              "offset": "PT29.88S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 298800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 29880,
+              "confidence": 0.66995376
+            },
+            {
+              "word": "conseguindo",
+              "offset": "PT30S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 300000000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 30000,
+              "confidence": 0.95394903
+            },
+            {
+              "word": "treinar",
+              "offset": "PT30.48S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 304800000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 30480,
+              "confidence": 0.95088214
+            },
+            {
+              "word": "direito",
+              "offset": "PT30.84S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 308400000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 30840,
+              "confidence": 0.98038393
+            },
+            {
+              "word": "sabe",
+              "offset": "PT31.28S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 312800000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 31280,
+              "confidence": 0.9811384
+            },
+            {
+              "word": "aí",
+              "offset": "PT33.2S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 332000000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 33200,
+              "confidence": 0.8957121
+            },
+            {
+              "word": "ontem",
+              "offset": "PT33.68S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 336800000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 33680,
+              "confidence": 0.81048256
+            },
+            {
+              "word": "eu",
+              "offset": "PT33.96S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 339600000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 33960,
+              "confidence": 0.57632965
+            },
+            {
+              "word": "fiz",
+              "offset": "PT34.04S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 340400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 34040,
+              "confidence": 0.96843576
+            },
+            {
+              "word": "até",
+              "offset": "PT34.24S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 342400000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 34240,
+              "confidence": 0.881634
+            },
+            {
+              "word": "um",
+              "offset": "PT34.36S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 343600000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 34360,
+              "confidence": 0.9817344
+            },
+            {
+              "word": "treino",
+              "offset": "PT34.52S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 345200000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 34520,
+              "confidence": 0.98174083
+            },
+            {
+              "word": "leve",
+              "offset": "PT34.88S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 348800000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 34880,
+              "confidence": 0.9848395
+            },
+            {
+              "word": "muito",
+              "offset": "PT35.32S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 353200000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 35320,
+              "confidence": 0.9876901
+            },
+            {
+              "word": "leve",
+              "offset": "PT35.6S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 356000000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 35600,
+              "confidence": 0.9835253
+            },
+            {
+              "word": "mesmo",
+              "offset": "PT35.92S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 359200000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 35920,
+              "confidence": 0.9888986
+            },
+            {
+              "word": "de",
+              "offset": "PT36.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 368800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 36880,
+              "confidence": 0.9898052
+            },
+            {
+              "word": "boa",
+              "offset": "PT37.04S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 370400000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 37040,
+              "confidence": 0.9879511
+            },
+            {
+              "word": "deu",
+              "offset": "PT37.4S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 374000000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 37400,
+              "confidence": 0.9901799
+            },
+            {
+              "word": "certo",
+              "offset": "PT37.56S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 375600000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 37560,
+              "confidence": 0.98828006
+            },
+            {
+              "word": "mas",
+              "offset": "PT38.08S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 380800000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 38080,
+              "confidence": 0.97072
+            },
+            {
+              "word": "depois",
+              "offset": "PT38.76S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 387600000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 38760,
+              "confidence": 0.985887
+            },
+            {
+              "word": "que",
+              "offset": "PT39.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 391600000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 39160,
+              "confidence": 0.98817074
+            },
+            {
+              "word": "você",
+              "offset": "PT39.28S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 392800000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 39280,
+              "confidence": 0.9893994
+            },
+            {
+              "word": "para",
+              "offset": "PT39.52S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 395200000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 39520,
+              "confidence": 0.7739303
+            },
+            {
+              "word": "e",
+              "offset": "PT40.12S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 401200000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 40120,
+              "confidence": 0.22104073
+            },
+            {
+              "word": "descansa",
+              "offset": "PT40.16S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 401600000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 40160,
+              "confidence": 0.7306967
+            },
+            {
+              "word": "ali",
+              "offset": "PT40.72S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 407200000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 40720,
+              "confidence": 0.20983115
+            },
+            {
+              "word": "um",
+              "offset": "PT40.84S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 408400000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 40840,
+              "confidence": 0.6654138
+            },
+            {
+              "word": "pouco",
+              "offset": "PT40.92S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 409200000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 40920,
+              "confidence": 0.98616576
+            },
+            {
+              "word": "aí",
+              "offset": "PT41.28S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 412800000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 41280,
+              "confidence": 0.8632692
+            },
+            {
+              "word": "meio",
+              "offset": "PT42.04S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 420400000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 42040,
+              "confidence": 0.9788625
+            },
+            {
+              "word": "que",
+              "offset": "PT42.32S",
+              "duration": "PT0.72S",
+              "offsetInTicks": 423200000.0,
+              "durationInTicks": 7200000.0,
+              "durationMilliseconds": 720,
+              "offsetMilliseconds": 42320,
+              "confidence": 0.986847
+            },
+            {
+              "word": "quando",
+              "offset": "PT43.24S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 432400000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 43240,
+              "confidence": 0.61638224
+            },
+            {
+              "word": "o",
+              "offset": "PT43.52S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 435200000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 43520,
+              "confidence": 0.6459538
+            },
+            {
+              "word": "sangue",
+              "offset": "PT43.56S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 435600000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 43560,
+              "confidence": 0.95835066
+            },
+            {
+              "word": "esfria",
+              "offset": "PT43.84S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 438400000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 43840,
+              "confidence": 0.6198868
+            },
+            {
+              "word": "a",
+              "offset": "PT44.24S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 442400000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 44240,
+              "confidence": 0.95758116
+            },
+            {
+              "word": "dor",
+              "offset": "PT44.32S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 443200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 44320,
+              "confidence": 0.70987964
+            },
+            {
+              "word": "volta",
+              "offset": "PT44.48S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 444800000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 44480,
+              "confidence": 0.96569765
+            },
+            {
+              "word": "e",
+              "offset": "PT45.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 458800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 45880,
+              "confidence": 0.9911226
+            },
+            {
+              "word": "aí",
+              "offset": "PT46.04S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 460400000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 46040,
+              "confidence": 0.9886432
+            },
+            {
+              "word": "eu",
+              "offset": "PT46.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 466400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 46640,
+              "confidence": 0.98858184
+            },
+            {
+              "word": "não",
+              "offset": "PT46.88S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 468800000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 46880,
+              "confidence": 0.9917223
+            },
+            {
+              "word": "sei",
+              "offset": "PT47.08S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 470800000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 47080,
+              "confidence": 0.9897871
+            },
+            {
+              "word": "o",
+              "offset": "PT47.32S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 473200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 47320,
+              "confidence": 0.9893243
+            },
+            {
+              "word": "que",
+              "offset": "PT47.4S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 474000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 47400,
+              "confidence": 0.66946673
+            },
+            {
+              "word": "que",
+              "offset": "PT47.52S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 475200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 47520,
+              "confidence": 0.5070538
+            },
+            {
+              "word": "eu",
+              "offset": "PT47.6S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 476000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 47600,
+              "confidence": 0.9859095
+            },
+            {
+              "word": "faço",
+              "offset": "PT47.68S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 476800000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 47680,
+              "confidence": 0.9729033
+            },
+            {
+              "word": "já",
+              "offset": "PT48.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 489200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 48920,
+              "confidence": 0.6109641
+            },
+            {
+              "word": "o",
+              "offset": "PT49.08S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 490800000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 49080,
+              "confidence": 0.17795694
+            },
+            {
+              "word": "tem",
+              "offset": "PT49.16S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 491600000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 49160,
+              "confidence": 0.14447236
+            },
+            {
+              "word": "gelo",
+              "offset": "PT49.32S",
+              "duration": "PT0.92S",
+              "offsetInTicks": 493200000.0,
+              "durationInTicks": 9200000.0,
+              "durationMilliseconds": 920,
+              "offsetMilliseconds": 49320,
+              "confidence": 0.9229318
+            },
+            {
+              "word": "dentro",
+              "offset": "PT50.8S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 508000000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 50800,
+              "confidence": 0.95334613
+            },
+            {
+              "word": "do",
+              "offset": "PT51.16S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 511600000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 51160,
+              "confidence": 0.9866043
+            },
+            {
+              "word": "balde",
+              "offset": "PT51.24S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 512400000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 51240,
+              "confidence": 0.96338725
+            },
+            {
+              "word": "deixei",
+              "offset": "PT51.92S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 519200000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 51920,
+              "confidence": 0.9110362
+            },
+            {
+              "word": "meu",
+              "offset": "PT52.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 521600000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 52160,
+              "confidence": 0.59231216
+            },
+            {
+              "word": "pé",
+              "offset": "PT52.28S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 522800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 52280,
+              "confidence": 0.6021321
+            },
+            {
+              "word": "no",
+              "offset": "PT52.4S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 524000000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 52400,
+              "confidence": 0.6132094
+            },
+            {
+              "word": "no",
+              "offset": "PT52.64S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 526400000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 52640,
+              "confidence": 0.47085494
+            },
+            {
+              "word": "gelo",
+              "offset": "PT52.8S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 528000000.0,
+              "durationInTicks": 6400000.0,
+              "durationMilliseconds": 640,
+              "offsetMilliseconds": 52800,
+              "confidence": 0.6623098
+            },
+            {
+              "word": "já",
+              "offset": "PT53.8S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 538000000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 53800,
+              "confidence": 0.68052363
+            },
+            {
+              "word": "tomei",
+              "offset": "PT54.08S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 540800000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 54080,
+              "confidence": 0.9569317
+            },
+            {
+              "word": "uns",
+              "offset": "PT54.48S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 544800000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 54480,
+              "confidence": 0.8747455
+            },
+            {
+              "word": "remédios",
+              "offset": "PT54.8S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 548000000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 54800,
+              "confidence": 0.5646218
+            },
+            {
+              "word": "pra",
+              "offset": "PT55.2S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 552000000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 55200,
+              "confidence": 0.13852863
+            },
+            {
+              "word": "pra",
+              "offset": "PT55.44S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 554400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 55440,
+              "confidence": 0.13872588
+            },
+            {
+              "word": "dor",
+              "offset": "PT55.64S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 556400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 55640,
+              "confidence": 0.5923451
+            },
+            {
+              "word": "pra",
+              "offset": "PT55.96S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 559600000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 55960,
+              "confidence": 0.13684069
+            },
+            {
+              "word": "dor",
+              "offset": "PT56.24S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 562400000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 56240,
+              "confidence": 0.6554458
+            },
+            {
+              "word": "no",
+              "offset": "PT56.4S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 564000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 56400,
+              "confidence": 0.98614687
+            },
+            {
+              "word": "corpo",
+              "offset": "PT56.52S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 565200000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 56520,
+              "confidence": 0.9852631
+            },
+            {
+              "word": "né",
+              "offset": "PT57S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 570000000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 57000,
+              "confidence": 0.9827696
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Pra",
+              "offset": "PT28.12S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 281200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 28120
+            },
+            {
+              "displayText": "melhorar",
+              "offset": "PT28.28S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 282800000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 28280
+            },
+            {
+              "displayText": "essa",
+              "offset": "PT28.76S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 287600000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 28760
+            },
+            {
+              "displayText": "dor",
+              "offset": "PT28.96S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 289600000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 28960
+            },
+            {
+              "displayText": "no",
+              "offset": "PT29.12S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 291200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 29120
+            },
+            {
+              "displayText": "pé,",
+              "offset": "PT29.28S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 292800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 29280
+            },
+            {
+              "displayText": "porque",
+              "offset": "PT29.4S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 294000000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 29400
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT29.6S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 296000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 29600
+            },
+            {
+              "displayText": "não",
+              "offset": "PT29.68S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 296800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 29680
+            },
+            {
+              "displayText": "tô",
+              "offset": "PT29.8S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 298000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 29800
+            },
+            {
+              "displayText": "nem",
+              "offset": "PT29.88S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 298800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 29880
+            },
+            {
+              "displayText": "conseguindo",
+              "offset": "PT30S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 300000000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 30000
+            },
+            {
+              "displayText": "treinar",
+              "offset": "PT30.48S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 304800000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 30480
+            },
+            {
+              "displayText": "direito,",
+              "offset": "PT30.84S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 308400000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 30840
+            },
+            {
+              "displayText": "sabe?",
+              "offset": "PT31.28S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 312800000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 31280
+            },
+            {
+              "displayText": "Aí",
+              "offset": "PT33.2S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 332000000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 33200
+            },
+            {
+              "displayText": "ontem",
+              "offset": "PT33.68S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 336800000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 33680
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT33.96S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 339600000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 33960
+            },
+            {
+              "displayText": "fiz",
+              "offset": "PT34.04S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 340400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 34040
+            },
+            {
+              "displayText": "até",
+              "offset": "PT34.24S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 342400000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 34240
+            },
+            {
+              "displayText": "um",
+              "offset": "PT34.36S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 343600000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 34360
+            },
+            {
+              "displayText": "treino",
+              "offset": "PT34.52S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 345200000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 34520
+            },
+            {
+              "displayText": "leve,",
+              "offset": "PT34.88S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 348800000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 34880
+            },
+            {
+              "displayText": "muito",
+              "offset": "PT35.32S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 353200000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 35320
+            },
+            {
+              "displayText": "leve",
+              "offset": "PT35.6S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 356000000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 35600
+            },
+            {
+              "displayText": "mesmo,",
+              "offset": "PT35.92S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 359200000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 35920
+            },
+            {
+              "displayText": "de",
+              "offset": "PT36.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 368800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 36880
+            },
+            {
+              "displayText": "boa,",
+              "offset": "PT37.04S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 370400000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 37040
+            },
+            {
+              "displayText": "deu",
+              "offset": "PT37.4S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 374000000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 37400
+            },
+            {
+              "displayText": "certo,",
+              "offset": "PT37.56S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 375600000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 37560
+            },
+            {
+              "displayText": "mas",
+              "offset": "PT38.08S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 380800000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 38080
+            },
+            {
+              "displayText": "depois",
+              "offset": "PT38.76S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 387600000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 38760
+            },
+            {
+              "displayText": "que",
+              "offset": "PT39.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 391600000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 39160
+            },
+            {
+              "displayText": "você",
+              "offset": "PT39.28S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 392800000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 39280
+            },
+            {
+              "displayText": "para",
+              "offset": "PT39.52S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 395200000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 39520
+            },
+            {
+              "displayText": "e",
+              "offset": "PT40.12S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 401200000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 40120
+            },
+            {
+              "displayText": "descansa",
+              "offset": "PT40.16S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 401600000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 40160
+            },
+            {
+              "displayText": "ali",
+              "offset": "PT40.72S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 407200000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 40720
+            },
+            {
+              "displayText": "um",
+              "offset": "PT40.84S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 408400000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 40840
+            },
+            {
+              "displayText": "pouco,",
+              "offset": "PT40.92S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 409200000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 40920
+            },
+            {
+              "displayText": "aí",
+              "offset": "PT41.28S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 412800000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 41280
+            },
+            {
+              "displayText": "meio",
+              "offset": "PT42.04S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 420400000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 42040
+            },
+            {
+              "displayText": "que",
+              "offset": "PT42.32S",
+              "duration": "PT0.72S",
+              "offsetInTicks": 423200000.0,
+              "durationInTicks": 7200000.0,
+              "durationMilliseconds": 720,
+              "offsetMilliseconds": 42320
+            },
+            {
+              "displayText": "quando",
+              "offset": "PT43.24S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 432400000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 43240
+            },
+            {
+              "displayText": "o",
+              "offset": "PT43.52S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 435200000.0,
+              "durationInTicks": 400000.0,
+              "durationMilliseconds": 40,
+              "offsetMilliseconds": 43520
+            },
+            {
+              "displayText": "sangue",
+              "offset": "PT43.56S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 435600000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 43560
+            },
+            {
+              "displayText": "esfria,",
+              "offset": "PT43.84S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 438400000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 43840
+            },
+            {
+              "displayText": "a",
+              "offset": "PT44.24S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 442400000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 44240
+            },
+            {
+              "displayText": "dor",
+              "offset": "PT44.32S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 443200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 44320
+            },
+            {
+              "displayText": "volta",
+              "offset": "PT44.48S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 444800000.0,
+              "durationInTicks": 4400000.0,
+              "durationMilliseconds": 440,
+              "offsetMilliseconds": 44480
+            },
+            {
+              "displayText": "e",
+              "offset": "PT45.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 458800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 45880
+            },
+            {
+              "displayText": "aí",
+              "offset": "PT46.04S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 460400000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 46040
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT46.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 466400000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 46640
+            },
+            {
+              "displayText": "não",
+              "offset": "PT46.88S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 468800000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 46880
+            },
+            {
+              "displayText": "sei",
+              "offset": "PT47.08S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 470800000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 47080
+            },
+            {
+              "displayText": "o",
+              "offset": "PT47.32S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 473200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 47320
+            },
+            {
+              "displayText": "que",
+              "offset": "PT47.4S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 474000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 47400
+            },
+            {
+              "displayText": "que",
+              "offset": "PT47.52S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 475200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 47520
+            },
+            {
+              "displayText": "eu",
+              "offset": "PT47.6S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 476000000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 47600
+            },
+            {
+              "displayText": "faço.",
+              "offset": "PT47.68S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 476800000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 47680
+            },
+            {
+              "displayText": "Já",
+              "offset": "PT48.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 489200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 48920
+            },
+            {
+              "displayText": "o",
+              "offset": "PT49.08S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 490800000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 49080
+            },
+            {
+              "displayText": "tem",
+              "offset": "PT49.16S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 491600000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 49160
+            },
+            {
+              "displayText": "gelo",
+              "offset": "PT49.32S",
+              "duration": "PT0.92S",
+              "offsetInTicks": 493200000.0,
+              "durationInTicks": 9200000.0,
+              "durationMilliseconds": 920,
+              "offsetMilliseconds": 49320
+            },
+            {
+              "displayText": "dentro",
+              "offset": "PT50.8S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 508000000.0,
+              "durationInTicks": 3600000.0,
+              "durationMilliseconds": 360,
+              "offsetMilliseconds": 50800
+            },
+            {
+              "displayText": "do",
+              "offset": "PT51.16S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 511600000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 51160
+            },
+            {
+              "displayText": "balde,",
+              "offset": "PT51.24S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 512400000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 51240
+            },
+            {
+              "displayText": "deixei",
+              "offset": "PT51.92S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 519200000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 51920
+            },
+            {
+              "displayText": "meu",
+              "offset": "PT52.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 521600000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 52160
+            },
+            {
+              "displayText": "pé",
+              "offset": "PT52.28S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 522800000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 52280
+            },
+            {
+              "displayText": "No",
+              "offset": "PT52.4S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 524000000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 52400
+            },
+            {
+              "displayText": "No",
+              "offset": "PT52.64S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 526400000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 52640
+            },
+            {
+              "displayText": "gelo,",
+              "offset": "PT52.8S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 528000000.0,
+              "durationInTicks": 6400000.0,
+              "durationMilliseconds": 640,
+              "offsetMilliseconds": 52800
+            },
+            {
+              "displayText": "já",
+              "offset": "PT53.8S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 538000000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 53800
+            },
+            {
+              "displayText": "tomei",
+              "offset": "PT54.08S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 540800000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 54080
+            },
+            {
+              "displayText": "uns",
+              "offset": "PT54.48S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 544800000.0,
+              "durationInTicks": 3200000.0,
+              "durationMilliseconds": 320,
+              "offsetMilliseconds": 54480
+            },
+            {
+              "displayText": "remédios",
+              "offset": "PT54.8S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 548000000.0,
+              "durationInTicks": 4000000.0,
+              "durationMilliseconds": 400,
+              "offsetMilliseconds": 54800
+            },
+            {
+              "displayText": "pra",
+              "offset": "PT55.2S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 552000000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 55200
+            },
+            {
+              "displayText": "pra",
+              "offset": "PT55.44S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 554400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 55440
+            },
+            {
+              "displayText": "dor,",
+              "offset": "PT55.64S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 556400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 55640
+            },
+            {
+              "displayText": "pra",
+              "offset": "PT55.96S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 559600000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 55960
+            },
+            {
+              "displayText": "dor",
+              "offset": "PT56.24S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 562400000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 56240
+            },
+            {
+              "displayText": "no",
+              "offset": "PT56.4S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 564000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 56400
+            },
+            {
+              "displayText": "corpo,",
+              "offset": "PT56.52S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 565200000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 56520
+            },
+            {
+              "displayText": "né?",
+              "offset": "PT57S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 570000000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 57000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT57.84S",
+      "duration": "PT4.56S",
+      "offsetInTicks": 578400000.0,
+      "durationInTicks": 45600000.0,
+      "durationMilliseconds": 4560,
+      "offsetMilliseconds": 57840,
+      "nBest": [
+        {
+          "confidence": 0.8585244,
+          "lexical": "para essas lesões assim e até agora não passou",
+          "itn": "para essas lesões assim e até agora não passou",
+          "maskedITN": "para essas lesões assim e até agora não passou",
+          "display": "Para essas lesões assim e até agora não passou.",
+          "words": [
+            {
+              "word": "para",
+              "offset": "PT57.84S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 578400000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 57840,
+              "confidence": 0.089323476
+            },
+            {
+              "word": "essas",
+              "offset": "PT58S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 580000000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 58000,
+              "confidence": 0.9343351
+            },
+            {
+              "word": "lesões",
+              "offset": "PT59.04S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 590400000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 59040,
+              "confidence": 0.8816726
+            },
+            {
+              "word": "assim",
+              "offset": "PT59.72S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 597200000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 59720,
+              "confidence": 0.98439664
+            },
+            {
+              "word": "e",
+              "offset": "PT1M1.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 612000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 61200,
+              "confidence": 0.9160506
+            },
+            {
+              "word": "até",
+              "offset": "PT1M1.32S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 613200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 61320,
+              "confidence": 0.9822098
+            },
+            {
+              "word": "agora",
+              "offset": "PT1M1.48S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 614800000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 61480,
+              "confidence": 0.9856005
+            },
+            {
+              "word": "não",
+              "offset": "PT1M1.72S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 617200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 61720,
+              "confidence": 0.98812264
+            },
+            {
+              "word": "passou",
+              "offset": "PT1M1.88S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 618800000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 61880,
+              "confidence": 0.9650078
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Para",
+              "offset": "PT57.84S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 578400000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 57840
+            },
+            {
+              "displayText": "essas",
+              "offset": "PT58S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 580000000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 58000
+            },
+            {
+              "displayText": "lesões",
+              "offset": "PT59.04S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 590400000.0,
+              "durationInTicks": 6800000.0,
+              "durationMilliseconds": 680,
+              "offsetMilliseconds": 59040
+            },
+            {
+              "displayText": "assim",
+              "offset": "PT59.72S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 597200000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 59720
+            },
+            {
+              "displayText": "e",
+              "offset": "PT1M1.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 612000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 61200
+            },
+            {
+              "displayText": "até",
+              "offset": "PT1M1.32S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 613200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 61320
+            },
+            {
+              "displayText": "agora",
+              "offset": "PT1M1.48S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 614800000.0,
+              "durationInTicks": 2400000.0,
+              "durationMilliseconds": 240,
+              "offsetMilliseconds": 61480
+            },
+            {
+              "displayText": "não",
+              "offset": "PT1M1.72S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 617200000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 61720
+            },
+            {
+              "displayText": "passou.",
+              "offset": "PT1M1.88S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 618800000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 61880
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
